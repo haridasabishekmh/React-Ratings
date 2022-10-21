@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.products{
+    width: 99%;
+    margin: 10px 10px; 
+    height: 500px;
+}
+.product{
+    width: 29.8%;
+    height: 560px;
+    display: inline-block;
+    vertical-align: top;
+    margin:10px 10px;
+    border: 0.5px solid rgba(128, 128, 128, 0.518);
+    padding:0 10px;
+    box-shadow: 4px 4px 6px black;
+}

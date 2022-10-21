@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#img{
+    margin-top: 10px;
+    width: 100%;
+    text-align: center;
+}
+#desc{
+    text-align: justify;
+}
